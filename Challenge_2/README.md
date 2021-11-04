@@ -57,4 +57,6 @@ Below shows the VBA code with 3 arrays included:
 Here is the original script that loops through individually:
 ![VBA_original_script](https://user-images.githubusercontent.com/91852495/140386305-939d7e16-3ce5-4dc4-93b6-c7e07e25dea3.png)
 
+##Summary
 
+The advantages of refactoring code include improving the readability of the code as well as making it more efficient. Code efficiency is important to reduce the time needed to run the code. However, the process of refactoring code may be time consuming which can be a disadvantage. 
