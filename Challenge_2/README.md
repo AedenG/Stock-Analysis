@@ -16,16 +16,14 @@ If we look at how the stocks performed in 2017, we see that they generally did w
 ![VBA_Challenge_Excel_2017](https://user-images.githubusercontent.com/91852495/140387461-b4e2f428-509b-43ac-995e-e566ed2a6519.png)
 
 
-In, 2018, unfortunately, the stocks generally did not do well. Nearly every stock has a negative return except for ENPH and RUN. 
+In, 2018, unfortunately, the stocks in general did poorly. Nearly every stock has a negative return except for ENPH and RUN. 
 
-![VBA_Challenge_Excel_2017](https://user-images.githubusercontent.com/91852495/140387597-8b1ea966-d004-4e1b-b068-0eced013b22c.png)
-
+![VBA_Challenge_Excel_2018](https://user-images.githubusercontent.com/91852495/140388858-08027e5f-c783-40e2-b0de-728f0b916666.png)
 
 
 Both stocks that had positive returns in 2018, were traded more often thus had higher total daily volumes than the year before.
 
-
-[Insert circles around ENPH and RUN]
+![VBA_Challenge_Excel_2018 2](https://user-images.githubusercontent.com/91852495/140389952-d832f619-321f-4cb8-88e8-664a3de31869.png)
 
 
 The refactored script takes fewer seconds to run than the original script. 
