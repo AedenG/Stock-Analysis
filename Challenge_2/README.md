@@ -46,7 +46,7 @@ Compare to the faster refactored script for 2018:
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/91852495/140187303-51e9d2c3-f88e-4ebf-b7d2-90e060ef590e.png)
 
 
-The 3 additional arrays in the refactored script take less time to run rather than looping through individually.
+The 3 additional arrays in the refactored script allows us to loop through the data one time thus taking less time to run. The original code takes longer since it must loop through individually to collect the same data.
 
 Below shows the VBA code with 3 arrays included:
 
@@ -54,7 +54,7 @@ Below shows the VBA code with 3 arrays included:
 ![VBA_refactored_script_b](https://user-images.githubusercontent.com/91852495/140386569-cbc84c42-6984-4465-9a63-65cdcc419b35.png)
 ![VBA_refactored_script_c](https://user-images.githubusercontent.com/91852495/140386631-dedcbbd2-50bf-4699-93e9-0782d94b3021.png)
 
-Here is the orginal script that loops through individually:
+Here is the original script that loops through individually:
 ![VBA_original_script](https://user-images.githubusercontent.com/91852495/140386305-939d7e16-3ce5-4dc4-93b6-c7e07e25dea3.png)
 
 
