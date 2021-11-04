@@ -78,4 +78,4 @@ The advantages of refactoring code include improving the readability of the code
 
 ### Pros and Cons of Refactoring the Original VBA Script
 
-The pros of refactoring the original VBA script include streamlining the script and reducing the time it takes to run the script. The cons include increasing the complexity of the script with multiple arrays such as ticker(), tickerVolumes(), tickerStartingPrices(), and tickerEndingPrices()- as well as using tickerIndex. These factors could increase the likelihood of making a mistake and breaking the code. The efficiency and organization make up for the potential drawbacks. 
+The pros of refactoring the original VBA script include streamlining the script and reducing the time it takes to run the script. The cons include increasing the complexity of the script with multiple arrays such as ticker(), tickerVolumes(), tickerStartingPrices(), and tickerEndingPrices()- as well as using tickerIndex to access the stock ticker. Unfortunately, this could also increase the likelihood of making a mistake and breaking the code. The efficiency and organization make up for the potential drawbacks. 
